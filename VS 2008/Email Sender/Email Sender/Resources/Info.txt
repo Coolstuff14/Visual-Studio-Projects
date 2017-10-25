@@ -1,0 +1,28 @@
+Email Spammer v5
+
+ - Aol and Hotmail will put emails in spam box so not worth trying
+ 
+ - Gmail groups simular emails togeather, so grouping prevention is built in
+ 
+ - There are built in spaming emails that you can use type in the first email box:
+    
+    load mary wang or load john long or load bob jones 
+    
+ - New features will be added soon like Attachments
+ 
+ 
+ Blog controls
+
+	start - starts email spaming
+
+	address - the to address
+
+	subject - sets subject
+
+	body - sets body
+
+	amount  - sets amount of emails to be sent
+
+	from - sets the from address
+
+	pass - sets the from address password 

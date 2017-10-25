@@ -1,0 +1,21 @@
+<ASX VERSION="3.0">
+<!--Windows Media Player Metafile-->
+<!--File Stream-->
+<title>Classic Holiday Radio</title>
+<PARAM name="HTMLView" value="http://www.classicholidayradio.com"/>
+<AUTHOR>Classic Holiday Radio- www.classicholidayradio.com</AUTHOR>
+<MOREINFO HREF="http://www.classicholidayradio.com"/>
+<COPYRIGHT>©2008 www.ClassicHolidayRadio.com</COPYRIGHT>
+<ABSTRACT>Happy Holidays from CHR</ABSTRACT>
+<ENTRY>
+<TITLE>Live Stream</TITLE>
+<AUTHOR>Classic Holiday Radio - www.classicholidayradio.com</AUTHOR>
+<COPYRIGHT>©2008 www.classicholidayradio.com</COPYRIGHT>
+<ABSTRACT>Happy Holidays</ABSTRACT>
+<REF HREF="http://216.38.1.180:80" />
+      <BANNER HREF="http://www.classicholidayradio.com/images/wmp-logo.gif">
+      <ABSTRACT>Click here to go to Our Web site.</ABSTRACT>
+       <MOREINFO HREF="www.classicholidayradio.com" TARGET = _blank/>
+       </BANNER>
+</ENTRY>
+</ASX>

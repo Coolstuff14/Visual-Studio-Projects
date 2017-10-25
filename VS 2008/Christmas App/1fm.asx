@@ -1,0 +1,26 @@
+<ASX version = "3.0">
+<TITLE>1.FM</TITLE>
+<MoreInfo href = "http://www.1.fm" />
+<Entry>
+      <Ref href = "http://christmas.1.fm/1fmchristmas32k" />
+      <PARAM NAME="HTMLView" Value="http://www.1.fm/station/christmas/Listen.aspx"/>
+</Entry>
+<Entry>
+      <Ref href = "http://christmas.1.fm/1fmchristmas32k" />
+      <PARAM NAME="HTMLView" Value="http://www.1.fm/station/christmas/Listen.aspx"/>
+</Entry>
+
+<Entry>
+      <Ref href = "http://christmas.1.fm/1fmchristmas32k" />
+      <PARAM NAME="HTMLView" Value="http://www.1.fm/station/christmas/Listen.aspx"/>
+</Entry>
+
+<Entry>
+      <Ref href = "http://christmas.1.fm/1fmchristmas32k" />
+      <PARAM NAME="HTMLView" Value="http://www.1.fm/station/christmas/Listen.aspx"/>
+</Entry>
+<Entry>
+      <Ref href = "http://christmas.1.fm/1fmchristmas32k" />
+      <PARAM NAME="HTMLView" Value="http://www.1.fm/station/christmas/Listen.aspx"/>
+</Entry>
+</ASX>

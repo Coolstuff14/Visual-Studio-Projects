@@ -1,0 +1,17 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Sync Chat 4.0" Height="623" Width="795" AllowsTransparency="True" Opacity="1" WindowStyle="None" Background="#00000000" ResizeMode="CanResize" WindowStartupLocation="CenterScreen" Icon=".\Images\01.ico">
+    <Grid Height="583">
+        <Image HorizontalAlignment="Left" Name="Image2" Stretch="UniformToFill" Width="773" Source="/Sync%20Chat%204.0;component/Images/Army_Strong_WP.png" Height="572" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,520,0,0" Name="tSend" VerticalAlignment="Top" Width="591" Text="Type here....." AutoWordSelection="False" VerticalScrollBarVisibility="Auto" IsEnabled="False" />
+        <Button Content="Send" Height="23" HorizontalAlignment="Left" Margin="609,520,0,0" Name="bSend" VerticalAlignment="Top" Width="152" IsEnabled="False" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,43,0,0" Name="tFilePath" VerticalAlignment="Top" Width="317" Text="Chat file path" />
+        <Button Content="Browse" Height="23" HorizontalAlignment="Left" Margin="335,43,0,0" Name="bBrowse" VerticalAlignment="Top" Width="75" />
+        <TextBox Height="23" Margin="416,43,0,0" Name="tUsername" VerticalAlignment="Top" HorizontalAlignment="Left" Width="217" Text="Username" />
+        <Button Content="Connect" Height="23" HorizontalAlignment="Left" Margin="639,42,0,0" Name="bConnect" VerticalAlignment="Top" Width="122" />
+        <TextBlock Height="35" HorizontalAlignment="Left" Margin="12,0,0,0" Name="TextBlock1" Text="Sync Chat 4.0" VerticalAlignment="Top" Width="180" FontWeight="Bold" FontSize="26" />
+        <TextBlock Height="35" HorizontalAlignment="Left" Margin="728,0,0,0" Name="tExitButton" Text="X" VerticalAlignment="Top" Width="33" FontSize="24" FontWeight="Bold" Cursor="Hand" DataContext="{Binding}" />
+        <TextBox Height="433" HorizontalAlignment="Left" Margin="12,72,0,0" Name="tChatWindow" VerticalAlignment="Top" Width="749" Opacity="0.8" IsReadOnlyCaretVisible="True" HorizontalScrollBarVisibility="Auto" />
+    </Grid>
+</Window>
