@@ -28,6 +28,7 @@ Project Descriptions
 
  - **Plant Timer:** Allows you to set a plant water timer for an X10 module (Requires X10 CM15A)3
  - **Temp Party Button:** A program to that is the brain behind my party button. Press a button and it turns on numerous X10 modules and runs programs.
+ - **Excel Test??** This is needs its own readme [Jump To](https://github.com/Coolstuff14/Visual-Studio-Projects/tree/master/VS%202010/ExcelTest)
 
 ----------
 **VS 2013:**
