@@ -3,7 +3,6 @@
 # Visual Studio Projects
 This is an assortment of visual studio projects mostly done in high school, although some are newer quick projects I've done. I have deemed these not important enough for individual repositories. Projects are separated by the visual studio version they were made in. Almost all projects here are written in Visual Basic.
 
-
 ----------
 Project Descriptions
 -------
@@ -33,7 +32,8 @@ Project Descriptions
 ----------
 **VS 2013:**
 
- - **2Display:** Allows control of a serially connected RedLion large Display Counter (Model LD2006P0 or LD4006P0)
  - **Da Wifi:** Creates a WiFi network (Only some card support)
  - **Door Monitor:** Overlay a security camera feed on your monitor.
- - **ClockToDisplay:** This is a a windows service that displays the time to a RedLion large Display Counter (Model LD2006P0 or LD4006P0)
+ - **2Display:** Allows control of a serially connected RedLion large Display Counter (Model LD2006P0 or LD4006P0)
+ - **ClockToDisplay:** This is a a windows service that displays the time to a RedLion large Display Counter (Model LD2006P0 or LD4006P0). There is another repository for this display [HERE](https://github.com/Coolstuff14/RedLion-Counter-LD2006P0-or-LD4006P0).
+
